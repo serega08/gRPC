@@ -1,0 +1,32 @@
+**/*.iml
+**/*.ipr
+**/*.iws
+**/*.log
+**/.classpath
+**/.idea/
+**/.project
+**/.settings
+**/target/
+**/*.class
+**/application-local.yml
+
+### ItelliJ IDEA ###
+.idea/
+*.iml
+*.db
+
+
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# Local History for Visual Studio Code
+.history/
